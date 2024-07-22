@@ -1,5 +1,7 @@
 # RaspBot
-![IMG_0297](https://github.com/user-attachments/assets/d230195a-2ee7-40ee-8e12-32a9e25b5ebf)
+
+![output3](https://github.com/user-attachments/assets/526a7009-f78e-481e-95a0-e9f9e78c87c6)
+
 
 ## Control a servo connected to a Raspberry Pi using an Xbox controller.
 
