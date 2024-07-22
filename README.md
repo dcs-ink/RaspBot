@@ -1,6 +1,6 @@
 # raspberry_servo_controller
 
-![output3](https://github.com/user-attachments/assets/526a7009-f78e-481e-95a0-e9f9e78c87c6)
+![output4](https://github.com/user-attachments/assets/e1ef99dc-d000-4b16-aeef-391f6d8ad08a)
 
 
 ## Control a servo connected to a Raspberry Pi using an Xbox controller. Easy setup for testing.
