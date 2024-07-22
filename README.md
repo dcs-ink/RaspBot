@@ -69,6 +69,8 @@ Parts list:
    ```
    python3 ServoController.py
    ```
+
    
 Thanks to [Berardinux](https://github.com/Berardinux) for the code and guide! [XboxController_Servo_RaspberryPi](https://github.com/Berardinux/XboxController_Servo_RaspberryPi)
+https://youtu.be/3Z6Bf0uV7tc?si=rzX2nBYM4o1anVEc
 
