@@ -14,6 +14,10 @@ Parts list:
 - servo
 - jumper wires
 
+  ### Diagram
+  ![wire_diagram](https://github.com/user-attachments/assets/df859b4f-c75f-45dd-8921-ab1cb36f8e90)
+
+
 ### Instructions
 1. Prep Raspberry Pi (I used Raspberry OS Lite but I imagine most OS's should work)
 3. Install dependancies
